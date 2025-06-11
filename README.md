@@ -13,7 +13,7 @@
 
 # 🌐 Socials:
 <div align="center">  
-  <a href="https://discord.gg/pablocruzado_xd" target="_blank">
+  <a href="https://discord.com/users/pablocruzado_xd" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Discord" />
   </a>
   <a href="https://instagram.com/pablocg_19" target="_blank">
