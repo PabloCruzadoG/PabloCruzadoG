@@ -1,5 +1,5 @@
 #  🤝🏻 Hi, I'm Pablo!
-👨🏻‍🎓 I am currently a 9th year student in **Computer Science and Systems Engineering**.<br>
+👨🏻‍🎓 I am currently a 10th cycle student in **Computer and Systems Engineering**.<br>
 🎓 I study at **Antenor Orrego Private University (UPAO)**, Peru.<br>
 💡 Constantly learning new technologies to stay up to date.<br>
 📈 Lately, I've been learning about **machine learning, data analytics, and data visualization**.
