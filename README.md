@@ -6,9 +6,10 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,html,kotlin,python,aws,gcp" alt="Tecnologías" /><br>
-  <img src="https://skillicons.dev/icons?i=firebase,heroku,netlify,nginx,mysql,postgres" alt="Tecnologías" /><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,figma,ps,notion" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular" alt="Tecnologías" /><br>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,arduino,vscode,git,notion" alt="Tecnologías" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,heroku,netlify,nginx" alt="Tecnologías" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,tensorflow,pytorch,figma,ps" alt="Tecnologías" />
 </div>
 
 # 🌐 Socials:
